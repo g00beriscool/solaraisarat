@@ -1,7 +1,5 @@
-
 local Luna = loadstring(game:HttpGet("http://you.whimper.xyz/sources/lunaUi.lua"))()
 local VIM = game:GetService("VirtualInputManager")
-
 local Window = Luna:CreateWindow({
     Name = "Tsunami Client",
     Subtitle = "https://discord.gg/3Gwz6Zyhtg", 
